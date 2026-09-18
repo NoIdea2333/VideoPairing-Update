@@ -1,7 +1,12 @@
 {
   "enabled": true,
   "title": "软件公告",
-  "content": "VideoPairing 近期已优化自动更新功能。更新视频对齐 字幕处理 去标点符号，\n更新 Fish Audio 配音间隙功能，压短句内停顿，首尾静音不处理，0=关闭，\n更新 Fish Audio 配音 紧凑朗读。\n如有问题请联系开发者。",
+  "content": "
+  VideoPairing 近期已优化自动更新功能。
+  更新视频对齐 字幕处理 去标点符号，
+  更新 Fish Audio 配音间隙功能，压短句内停顿，首尾静音不处理，0=关闭，
+  更新 Fish Audio 配音 紧凑朗读。
+  如有问题请联系开发者。",
   "contact": "微信：xxxxxx",
   "button_text": "联系作者",
   "updated_at": "2026-09-18"
