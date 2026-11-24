@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "title": "软件公告",
-  "content": "面向剪映 / CapCut 的字幕、翻译、配音与草稿自动化工具。\n VideoPairing 将字幕提取、AI 改写翻译、语音生成、草稿创建和视频对齐串成连续流程，减少逐条配音、调整时间轴和整理素材的重复操作。适合影视解说、短视频、多语言配音、TikTok 和 YouTube Shorts 等制作场景。\n如有问题请联系开发者。",
+  "content": "面向剪映 / CapCut 的字幕、翻译、配音与草稿自动化工具。\nVideoPairing 将字幕提取、AI 改写翻译、语音生成、草稿创建和视频对齐串成连续流程，减少逐条配音、调整时间轴和整理素材的重复操作。适合影视解说、短视频、多语言配音、TikTok 和 YouTube Shorts 等制作场景。\n如有问题请联系开发者。",
   "contact": "wx:",
   "button_text": "联系作者",
   "updated_at": "2026-09-18"
